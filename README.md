@@ -1,2 +1,2 @@
-# type-thursday-talk-2019
-Type Thursday Talk 2019
+# type thursday talk 2019
+Subject: Runebender
